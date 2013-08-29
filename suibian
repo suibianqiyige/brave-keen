@@ -1,0 +1,5 @@
+cd /home/suibianqiyige/brave-keen
+git add D:\workspace\Content
+git commit -m "first commit"
+git push -u origin master
+git remote add origin https://github.com/suibianqiyige/brave-keen.git git push -u origin master
